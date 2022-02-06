@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Coronavirus-statistics-/static/css/main.95999ada.css",
+    "main.js": "/Coronavirus-statistics-/static/js/main.21097db5.js",
+    "static/media/martin-sanchez-Tzoe6VCvQYg-unsplash (1).jpg": "/Coronavirus-statistics-/static/media/martin-sanchez-Tzoe6VCvQYg-unsplash (1).9c5396542b0fb2aeff98.jpg",
+    "index.html": "/Coronavirus-statistics-/index.html",
+    "main.95999ada.css.map": "/Coronavirus-statistics-/static/css/main.95999ada.css.map",
+    "main.21097db5.js.map": "/Coronavirus-statistics-/static/js/main.21097db5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95999ada.css",
+    "static/js/main.21097db5.js"
+  ]
+}
