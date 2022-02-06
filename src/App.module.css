@@ -1,0 +1,20 @@
+body {
+    background-image:url('images/martin-sanchez-Tzoe6VCvQYg-unsplash\ \(1\).jpg') ;
+    background-repeat: no-repeat  center center fixed ;
+    background-size: cover; 
+
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column;
+    background-color: rgba(216, 214, 214, 0.5);
+    border-radius: 10px;     
+     
+          
+  }
+  .container:hover{
+    background-color:rgba(255, 255, 255, 0.8);
+  }
